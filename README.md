@@ -24,15 +24,9 @@ An interactive Tableau dashboard used to report and explore machine down time tr
 
 The company's main telemetry data was collected from 4 factories, each with 9 types of machines, recorded every 10 minutes for one month (May 2021). The data was provided in a single JSON file and imported into Tableau.
 
-This JSON file contains telemetry data messages per machine. (./daikibo-telemetry-data.json.zip)
-Total Records: [X records – dependent on dataset]
+The raw telemetry dataset for this project can be downloaded here:  
+[daikibo-telemetry-data.json.zip](./data/daikibo-telemetry-data.json.zip)
 
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
-
-[Entity Relationship Diagram here]
 
 
 
@@ -40,11 +34,11 @@ Total Records: [X records – dependent on dataset]
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+After analyzing the telemetry data for May 2021, the factory with the highest machine down time was identified, and the machine types contributing most to this down time were determined. These insights allow Daikibo to prioritize maintenance efforts and improve operational efficiency.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+[Visualization: Screenshot of the dashboard showing Down Time per Factory and Down Time per Device Type]
 
-
+/
 
 # Insights Deep Dive
 ### Category 1:
