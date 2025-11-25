@@ -38,7 +38,8 @@ After analyzing the telemetry data for May 2021, the factory with the highest ma
 
 [Visualization: Screenshot of the dashboard showing Down Time per Factory and Down Time per Device Type]
 
-/
+![Dashboard](https://raw.githubusercontent.com/username/repo/main/images/Dashboard%201%20(3).png)
+
 
 # Insights Deep Dive
 ### Category 1:
