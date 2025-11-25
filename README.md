@@ -1,29 +1,32 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+Daikibo is a multinational manufacturing company operating factories across Tokyo, Osaka, Berlin, and Shenzhen. Each location operates 9 types of machines, which send telemetry messages every 10 minutes.
+
+
+The data analyzed covers one month (May 2021) and was collected to answer the following business questions:
+
+
+1. In which location did machines break the most?
+2. What are the machines that broke most often in that location?
+
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Category 1:** Down Time per Factory
+- **Category 2:** Down Time per Device Type 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
-Targed SQL queries regarding various business questions can be found here [link].
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
+An interactive Tableau dashboard used to report and explore machine down time trends can be found here [[link](https://public.tableau.com/views/Book1_17442576765920/Dashboard13?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)].
 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+The company's main telemetry data was collected from 4 factories, each with 9 types of machines, recorded every 10 minutes for one month (May 2021). The data was provided in a single JSON file and imported into Tableau.
+
+JSON file contains telemetry messages per machine.
+Total Records: [X records – dependent on dataset]
+
 - **Table 2:**
 - **Table 3:**
 - **Table 4:**
