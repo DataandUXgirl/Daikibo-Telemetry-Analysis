@@ -24,7 +24,7 @@ An interactive Tableau dashboard used to report and explore machine down time tr
 
 The company's main telemetry data was collected from 4 factories, each with 9 types of machines, recorded every 10 minutes for one month (May 2021). The data was provided in a single JSON file and imported into Tableau.
 
-JSON file contains telemetry messages per machine.
+This JSON file contains telemetry data messages per machine. (./daikibo-telemetry-data.json.zip)
 Total Records: [X records – dependent on dataset]
 
 - **Table 2:**
