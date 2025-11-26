@@ -41,7 +41,6 @@ After analyzing the telemetry data for May 2021, the factory with the highest ma
 
 ![Dashboard](https://raw.githubusercontent.com/DataandUXgirl/Daikibo-Telemetry-Analysis/main/image/Dashboard%201%20(3).png)
 
-
 # Insights Deep Dive
 ### Category 1: Down Time per Factory
 
@@ -58,6 +57,7 @@ Main insight 4:
 Total factory down time directly reflects the severity of device type breakdowns, especially in factories where high-failure machines (like laser welders and laser cutters) dominate.
 
 [Visualization specific to category 1]
+![Dashboard](https://github.com/DataandUXgirl/Daikibo-Telemetry-Analysis/blob/main/image/Dashboard%201%20(3).png)
 
 
 ### Category 2:
@@ -75,6 +75,8 @@ Main insight 4:
 Down time patterns clearly show which machines require immediate maintenance prioritization, supporting targeted operational decisions.
 
 [Visualization specific to category 2]
+![Dashboard](https://github.com/DataandUXgirl/Daikibo-Telemetry-Analysis/blob/main/image/Dashboard%201%20(3).png)
+
 
 
 ### Category 3: Device Type Comparisons
