@@ -75,8 +75,7 @@ Main insight 4:
 Down time patterns clearly show which machines require immediate maintenance prioritization, supporting targeted operational decisions.
 
 [Visualization specific to category 2]
-![Dashboard](https://github.com/DataandUXgirl/Daikibo-Telemetry-Analysis/blob/main/image/Dashboard%201%20(3).png)
-
+![Dashboard](https://github.com/DataandUXgirl/Daikibo-Telemetry-Analysis/blob/main/image/Dashboard%20task%201.png)
 
 
 ### Category 3: Device Type Comparisons
