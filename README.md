@@ -57,7 +57,7 @@ Main insight 4:
 Total factory down time directly reflects the severity of device type breakdowns, especially in factories where high-failure machines (like laser welders and laser cutters) dominate.
 
 [Visualization specific to category 1]
-![Dashboard](https://github.com/DataandUXgirl/Daikibo-Telemetry-Analysis/blob/main/image/Dashboard%201%20(3).png)
+![Dashboard](https://github.com/DataandUXgirl/Daikibo-Telemetry-Analysis/blob/main/image/Factory%20dashboard.png?raw=true)
 
 
 ### Category 2:
@@ -88,8 +88,6 @@ Main insight 2: Heat-intensive devices (e.g., Furnace) show moderate down time, 
 Main insight 3: Lightweight devices (CNC, Conveyor Bolt) show low down time, indicating stable performance.
 
 Main insight 4: Comparing device categories helps identify which machines are most cost-intensive to maintain.
-
-[Visualization specific to category 3]
 
 
 
